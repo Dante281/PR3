@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tienda">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="articulos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="articulo">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="referencia"/>
+                    <xs:element name="descripcion"/>
+                    <xs:element name="departamento"/>
+                    <xs:element name="colores"/>
+                    <xs:element name="tallas"/>
+                    <xs:element name="precio"/>
+                    <xs:element name="foto"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+<!--Restricciones-->
+      <xs:element name="descripcion">
+        <xs:simpleType>
+        <xs:restriction base="xs:string">
+        <xs:maxLength value="30"/>
+        </xs:restriction>
+        </xs:simpleType>
+        </xs:element>
+</xs:schema>

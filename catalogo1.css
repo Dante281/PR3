@@ -1,0 +1,10 @@
+img{
+					width: 100px; height: 100px;
+				}	
+table, th, td {
+	border: 5px solid black;
+}
+
+th{
+	background-color: green; 
+}

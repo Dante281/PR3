@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo1.xsl"?>
+
+<tienda>
+	<articulos>
+		<articulo>
+			<referencia>8354268</referencia>
+			<descripcion>Zapatillas de travesia</descripcion>
+			<departamento>Deportes de Montaña</departamento>
+			<colores>Negro Carbon / Gris Roca</colores>
+			<tallas>De 39 a 48</tallas>
+			<precio>Antes 19,99€ ahora 17,99€</precio>
+			<foto>images/8354268.jpg</foto>
+		</articulo>
+	</articulos>
+</tienda>
+
+<!---
+a)	Se debe crear al menos 15 artículos distintos en un fichero XML
+b)	Puedes incluir más campos si lo consideras necesario
+c)	El valor del elemento foto será el nombre de un fichero .jpg o .png. 
+d)	Todas las imágenes estarán en una carpeta llamada “images”.
+e)	Realizar el esquema sobre el cual validar el anterior XML “catalogo.xsd”. Ten en cuenta las restricciones.
+
+min 38
+-->
+	
