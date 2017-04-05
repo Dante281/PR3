@@ -4,24 +4,159 @@
 <tienda>
 	<articulos>
 		<articulo>
-			<referencia>8354268</referencia>
+			<referencia ID="1">8354268</referencia>
 			<descripcion>Zapatillas de travesia</descripcion>
 			<departamento>Deportes de Montaña</departamento>
 			<colores>Negro Carbon / Gris Roca</colores>
 			<tallas>De 39 a 48</tallas>
 			<precio>Antes 19,99€ ahora 17,99€</precio>
 			<foto>images/8354268.jpg</foto>
+			<url>https://www.decathlon.es/zapatillas-de-montaa-arpenaz-50-negro--id_8354268.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="2">8383624</referencia>
+			<descripcion>CAMISETA DE DEPORTES DE RAQUETA ASICS SHOCKING NARANJA ASICS</descripcion>
+			<departamento>Camisetas</departamento>
+			<colores>Azul, verde, naranja</colores>
+			<tallas>S, M, L, XL</tallas>
+			<precio>34,99€</precio>
+			<foto>images/8383624.jpg</foto>
+			<url>https://www.decathlon.es/camiseta-shocking-naranja-id_8383624.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="3">8222527</referencia>
+			<descripcion>CHAQUETA SOFTSHELL SIBIR 500 CAMOFLUO SOLOGNAC</descripcion>
+			<departamento>Cortavientos</departamento>
+			<colores>Estampado Naranja</colores>
+			<tallas>S, M, L, XL</tallas>
+			<precio>34,99€</precio>
+			<foto>images/8222527.jpg</foto>
+			<url>https://www.decathlon.es/polar-de-caza-de-hombre-softshell-sibir-500-id_8222527.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="4">8382990</referencia>
+			<descripcion>CAMISETA MANGA CORTA TRAVESÍA TECHFRESH 100 MUJER VERDE ANÍS QUECHUA</descripcion>
+			<departamento>Camisetas</departamento>
+			<colores>verde ácido / verde aceituna / verde ácido</colores>
+			<tallas>XS, S, M, L, XL</tallas>
+			<precio>7,99€</precio>
+			<foto>images/8382990.jpg</foto>
+			<url>https://www.decathlon.es/techfresh-100-mujer-verde-anis-id_8382990.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="5">8389989</referencia>
+			<descripcion>ZAPATILLAS CARRETERA CICLISMO 500 AMARILLO FLUOR B'TWIN</descripcion>
+			<departamento>Calzado</departamento>
+			<colores>Verde, Negro, Blanco, Rojo</colores>
+			<tallas>de 40 a 46</tallas>
+			<precio>39,99€</precio>
+			<foto>images/8389989.jpg</foto>
+			<url>https://www.decathlon.es/zapatillas-carretera-ciclismo-500-amarillo-fluor--id_8389989.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="6">8356075</referencia>
+			<descripcion>PANTALÓN TRAVESÍA ARPENAZ 100 HOMBRE BEIGE QUECHUA</descripcion>
+			<departamento>Pantalones</departamento>
+			<colores>Tierra, Negro Carbon</colores>
+			<tallas>de 40 a 52</tallas>
+			<precio>12,99€</precio>
+			<foto>images/8356075.jpg</foto>
+			<url>https://www.decathlon.es/pantalon-largo-arpenaz-100-hombre-beige--id_8356075.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="7">8351458</referencia>
+			<descripcion>FALDA ESSENTIAL BLANCO TENIS BÁDMINTON TENIS DE MESA PÁDEL SQUASH ARTENGO</descripcion>
+			<departamento>Faldas</departamento>
+			<colores>Estampado Naranja</colores>
+			<tallas>XS, S, M, L</tallas>
+			<precio>6,99€</precio>
+			<foto>images/8351458.jpg</foto>
+			<url>https://www.decathlon.es/falda-mujer-essential-blanco--id_8351458.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="8">8326297</referencia>
+			<descripcion>CAMISETA SIN MANGAS MY TOP FITNESS MUJER ROSA OSCURO DOMYOS</descripcion>
+			<departamento>Camisetas</departamento>
+			<colores>Rosa, Azul, Negro, Verde</colores>
+			<tallas>Talla unica</tallas>
+			<precio>3,99€</precio>
+			<foto>images/8326297.jpg</foto>
+			<url>https://www.decathlon.es/camiseta-sin-manga-transpirable-my-top-fitness-mujer-id_8326297.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="9">8343124</referencia>
+			<descripcion>GORRA FITNESS ROSA DOMYOS</descripcion>
+			<departamento>Accesorios</departamento>
+			<colores>Rosa, Negro</colores>
+			<tallas>S, M, L, XL</tallas>
+			<precio>3,99€</precio>
+			<foto>images/8343124.jpg</foto>
+			<url>https://www.decathlon.es/gorra-fitness-id_8343124.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="10">8382267</referencia>
+			<descripcion>POLO GOLF HOMBRE 500 BURDEOS INESIS</descripcion>
+			<departamento>Polos</departamento>
+			<colores>Rojo vino, gris, blanco, negro, azul</colores>
+			<tallas>S, M, L, XL, 2XL</tallas>
+			<precio>9,99€</precio>
+			<foto>images/8382267.jpg</foto>
+			<url>https://www.decathlon.es/polo-golf-hombre-500-burdeos-id_8382267.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="11">8355671</referencia>
+			<descripcion>CHAQETA CORTAVIENTO TRAVESÍA MUJER FORCLAZ 600 LIGHT AZUL QUECHUA</descripcion>
+			<departamento>Cortavientos</departamento>
+			<colores>Azul</colores>
+			<tallas>XS, S, M, L, XL</tallas>
+			<precio>34,99€</precio>
+			<foto>images/8355671.jpg</foto>
+			<url>https://www.decathlon.es/chaqueta-softshell-forclaz-600-light-mujer-azul--id_8355671.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="12">8379754</referencia>
+			<descripcion>CAMISETA DE MANGA CORTA ESTAMPADA GIMNASIA NIÑO AZUL DOMYOS</descripcion>
+			<departamento>Camiseta</departamento>
+			<colores>Azyl, Naranja, Verde, Rojo</colores>
+			<tallas>de 5 a 14 años</tallas>
+			<precio>2,99€</precio>
+			<foto>images/8379754.jpg</foto>
+			<url>https://www.decathlon.es/camiseta-manga-corta-gym-id_8379754.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="13">8333413</referencia>
+			<descripcion>PANTALÓN TRANSFORMABLE TRAVESÍA FORCLAZ 100 MUJER AZUL QUECHUA</descripcion>
+			<departamento>Pantalon</departamento>
+			<colores>Azul, Negro, Gris</colores>
+			<tallas>32 a 44</tallas>
+			<precio>24,99€</precio>
+			<foto>images/8333413.jpg</foto>
+			<url>https://www.decathlon.es/pantalon-largo-forclaz-100-transform-m-azul--id_8333413.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="14">8382942</referencia>
+			<descripcion>PANTALÓN GOLF MUJER 500 NARANJA INESIS</descripcion>
+			<departamento>Pantalon</departamento>
+			<colores>Naranja, Negro, Verde, Marron, Blanco, Azul</colores>
+			<tallas>2XS, XS, S, M, L, XL</tallas>
+			<precio>19,99€</precio>
+			<foto>images/8382942.jpg</foto>
+			<url>https://www.decathlon.es/pantalon-golf-mujer-500-nrnja--id_8382942.html</url>
+		</articulo>
+		<articulo>
+			<referencia ID="15">8369582</referencia>
+			<descripcion>FORRO POLAR HOMBRE FORCLAZ 200 AZUL JASPEADO QUECHUA</descripcion>
+			<departamento>Polar</departamento>
+			<colores>Negro, Rojo, Azul</colores>
+			<tallas>S, M, L, XL, 2XL, 3XL</tallas>
+			<precio>9,99€</precio>
+			<foto>images/8369582.jpg</foto>
+			<url>https://www.decathlon.es/forro-polar-forclaz-200-hombre-azul--id_8369582.html</url>
 		</articulo>
 	</articulos>
 </tienda>
 
 <!---
-a)	Se debe crear al menos 15 artículos distintos en un fichero XML
-b)	Puedes incluir más campos si lo consideras necesario
-c)	El valor del elemento foto será el nombre de un fichero .jpg o .png. 
-d)	Todas las imágenes estarán en una carpeta llamada “images”.
-e)	Realizar el esquema sobre el cual validar el anterior XML “catalogo.xsd”. Ten en cuenta las restricciones.
-
-min 38
+	Realizar el esquema sobre el cual validar el anterior XML “catalogo.xsd”. Ten en cuenta las restricciones.
 -->
 	

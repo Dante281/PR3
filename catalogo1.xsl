@@ -19,24 +19,25 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				<th>Precio</th>
 				<th>Foto</th>
 			</tr>							<!-- fin Primera Fila TR -->
+		<xsl:for-each select="tienda/articulos/articulo">
 			<tr>							<!-- Segunda Fila TR -->
 				<td>
-					<xsl:value-of select="tienda/articulos/articulo/referencia"/>
+					<xsl:value-of select="referencia"/>
 				</td>
 				<td>
-					<xsl:value-of select="tienda/articulos/articulo/descripcion"/>
+					<xsl:value-of select="descripcion"/>
 				</td>
 				<td>
-					<xsl:value-of select="tienda/articulos/articulo/departamento"/>
+					<xsl:value-of select="departamento"/>
 				</td>
 				<td>
-					<xsl:value-of select="tienda/articulos/articulo/precio"/>
+					<xsl:value-of select="precio"/>
 				</td>
 				<td>
-					<img src="images/8354268.jpg"/>
+					<img src="{foto}"/>
 				</td>				
 			</tr>							<!-- fin Segunda Fila TR -->
-	
+		</xsl:for-each>
 		</table>							<!-- cerramos la tabla -->
 		
 	  </body>
