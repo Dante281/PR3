@@ -1,10 +1,20 @@
+/* Imagenes */
 img{
 					width: 100px; height: 100px;
-				}	
+				}
+/* Tabla y columnas */				
 table, th, td {
 	border: 5px solid black;
 }
-
+/* Tabla */
+table{
+	width:100%;
+}
+/* Centramos las columnas */
+td { 
+text-align: center; 
+}
+/* Color verde a la cabecera de la tabla */
 th{
 	background-color: green; 
 }

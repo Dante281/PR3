@@ -5,8 +5,9 @@
 	<articulos>
 		<articulo>
 			<referencia ID="1">8354268</referencia>
-			<descripcion>Zapatillas de travesia</descripcion>
-			<departamento>Deportes de Montaña</departamento>
+			<descripcion>Zapatillas de montaña Arpenaz 50 Negro</descripcion>
+			<departamento>Hombre</departamento>
+			<Categoria >Montaña</Categoria>
 			<colores>Negro Carbon / Gris Roca</colores>
 			<tallas>De 39 a 48</tallas>
 			<precio>Antes 19,99€ ahora 17,99€</precio>
@@ -16,7 +17,8 @@
 		<articulo>
 			<referencia ID="2">8383624</referencia>
 			<descripcion>CAMISETA DE DEPORTES DE RAQUETA ASICS SHOCKING NARANJA ASICS</descripcion>
-			<departamento>Camisetas</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Fitness</Categoria>
 			<colores>Azul, verde, naranja</colores>
 			<tallas>S, M, L, XL</tallas>
 			<precio>34,99€</precio>
@@ -26,7 +28,8 @@
 		<articulo>
 			<referencia ID="3">8222527</referencia>
 			<descripcion>CHAQUETA SOFTSHELL SIBIR 500 CAMOFLUO SOLOGNAC</descripcion>
-			<departamento>Cortavientos</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Estampado Naranja</colores>
 			<tallas>S, M, L, XL</tallas>
 			<precio>34,99€</precio>
@@ -36,7 +39,8 @@
 		<articulo>
 			<referencia ID="4">8382990</referencia>
 			<descripcion>CAMISETA MANGA CORTA TRAVESÍA TECHFRESH 100 MUJER VERDE ANÍS QUECHUA</descripcion>
-			<departamento>Camisetas</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Fitness</Categoria>
 			<colores>verde ácido / verde aceituna / verde ácido</colores>
 			<tallas>XS, S, M, L, XL</tallas>
 			<precio>7,99€</precio>
@@ -46,7 +50,8 @@
 		<articulo>
 			<referencia ID="5">8389989</referencia>
 			<descripcion>ZAPATILLAS CARRETERA CICLISMO 500 AMARILLO FLUOR B'TWIN</descripcion>
-			<departamento>Calzado</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Ciclismo</Categoria>
 			<colores>Verde, Negro, Blanco, Rojo</colores>
 			<tallas>de 40 a 46</tallas>
 			<precio>39,99€</precio>
@@ -56,7 +61,8 @@
 		<articulo>
 			<referencia ID="6">8356075</referencia>
 			<descripcion>PANTALÓN TRAVESÍA ARPENAZ 100 HOMBRE BEIGE QUECHUA</descripcion>
-			<departamento>Pantalones</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Tierra, Negro Carbon</colores>
 			<tallas>de 40 a 52</tallas>
 			<precio>12,99€</precio>
@@ -66,7 +72,8 @@
 		<articulo>
 			<referencia ID="7">8351458</referencia>
 			<descripcion>FALDA ESSENTIAL BLANCO TENIS BÁDMINTON TENIS DE MESA PÁDEL SQUASH ARTENGO</descripcion>
-			<departamento>Faldas</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Fitness</Categoria>
 			<colores>Estampado Naranja</colores>
 			<tallas>XS, S, M, L</tallas>
 			<precio>6,99€</precio>
@@ -76,7 +83,8 @@
 		<articulo>
 			<referencia ID="8">8326297</referencia>
 			<descripcion>CAMISETA SIN MANGAS MY TOP FITNESS MUJER ROSA OSCURO DOMYOS</descripcion>
-			<departamento>Camisetas</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Ciclismo</Categoria>
 			<colores>Rosa, Azul, Negro, Verde</colores>
 			<tallas>Talla unica</tallas>
 			<precio>3,99€</precio>
@@ -86,7 +94,8 @@
 		<articulo>
 			<referencia ID="9">8343124</referencia>
 			<descripcion>GORRA FITNESS ROSA DOMYOS</descripcion>
-			<departamento>Accesorios</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Ciclismo</Categoria>
 			<colores>Rosa, Negro</colores>
 			<tallas>S, M, L, XL</tallas>
 			<precio>3,99€</precio>
@@ -96,7 +105,8 @@
 		<articulo>
 			<referencia ID="10">8382267</referencia>
 			<descripcion>POLO GOLF HOMBRE 500 BURDEOS INESIS</descripcion>
-			<departamento>Polos</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Rojo vino, gris, blanco, negro, azul</colores>
 			<tallas>S, M, L, XL, 2XL</tallas>
 			<precio>9,99€</precio>
@@ -106,7 +116,8 @@
 		<articulo>
 			<referencia ID="11">8355671</referencia>
 			<descripcion>CHAQETA CORTAVIENTO TRAVESÍA MUJER FORCLAZ 600 LIGHT AZUL QUECHUA</descripcion>
-			<departamento>Cortavientos</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Azul</colores>
 			<tallas>XS, S, M, L, XL</tallas>
 			<precio>34,99€</precio>
@@ -116,7 +127,8 @@
 		<articulo>
 			<referencia ID="12">8379754</referencia>
 			<descripcion>CAMISETA DE MANGA CORTA ESTAMPADA GIMNASIA NIÑO AZUL DOMYOS</descripcion>
-			<departamento>Camiseta</departamento>
+			<departamento>Niño</departamento>
+			<Categoria>Fitness</Categoria>
 			<colores>Azyl, Naranja, Verde, Rojo</colores>
 			<tallas>de 5 a 14 años</tallas>
 			<precio>2,99€</precio>
@@ -126,7 +138,8 @@
 		<articulo>
 			<referencia ID="13">8333413</referencia>
 			<descripcion>PANTALÓN TRANSFORMABLE TRAVESÍA FORCLAZ 100 MUJER AZUL QUECHUA</descripcion>
-			<departamento>Pantalon</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Azul, Negro, Gris</colores>
 			<tallas>32 a 44</tallas>
 			<precio>24,99€</precio>
@@ -136,7 +149,8 @@
 		<articulo>
 			<referencia ID="14">8382942</referencia>
 			<descripcion>PANTALÓN GOLF MUJER 500 NARANJA INESIS</descripcion>
-			<departamento>Pantalon</departamento>
+			<departamento>Mujer</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Naranja, Negro, Verde, Marron, Blanco, Azul</colores>
 			<tallas>2XS, XS, S, M, L, XL</tallas>
 			<precio>19,99€</precio>
@@ -146,7 +160,8 @@
 		<articulo>
 			<referencia ID="15">8369582</referencia>
 			<descripcion>FORRO POLAR HOMBRE FORCLAZ 200 AZUL JASPEADO QUECHUA</descripcion>
-			<departamento>Polar</departamento>
+			<departamento>Hombre</departamento>
+			<Categoria>Montaña</Categoria>
 			<colores>Negro, Rojo, Azul</colores>
 			<tallas>S, M, L, XL, 2XL, 3XL</tallas>
 			<precio>9,99€</precio>
