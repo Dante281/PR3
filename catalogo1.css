@@ -16,5 +16,14 @@ text-align: center;
 }
 /* Color verde a la cabecera de la tabla */
 th{
-	background-color: green; 
+	background-color: grey; 
+}
+.barato{
+	background: #9FF781;
+}
+.medio{
+	background: #F7BE81;
+}
+.caro{
+	background: #FA5858;
 }
